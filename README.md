@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/airbnb-data-visualisation.git
+git clone https://github.com/your-username/airbnb.git
 Open Tableau Desktop and select "Open" from the "File" menu. Navigate to the repository directory and select the airbnb_data_visualisation.twb file to open the Tableau workbook.
 
 In the Tableau workbook, navigate to the "Data Source" tab and update the data connection to use the Airbnb data files for the desired city. You can do this by clicking on the "Edit Data Source" button and following the prompts.
